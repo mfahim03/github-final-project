@@ -1,8 +1,10 @@
 PS C:\Users\fahim\Documents\ChatGPT\calculator\ibm-fork> git status --short --branch
-## main...origin/main
+## bug-fix-revert...origin/bug-fix-revert
 PS C:\Users\fahim\Documents\ChatGPT\calculator\ibm-fork> git branch -a -vv
-  bug-fix-typo                0f71ed4 [origin/bug-fix-typo] Fix output label typo in README
-* main                        0f71ed4 [origin/main] Fix output label typo in README
-  remotes/origin/HEAD         -> origin/main
-  remotes/origin/bug-fix-typo 0f71ed4 Fix output label typo in README
-  remotes/origin/main         0f71ed4 Fix output label typo in README
+* bug-fix-revert                0f71ed4 [origin/bug-fix-revert] Fix output label typo in README
+  bug-fix-typo                  0f71ed4 [origin/bug-fix-typo] Fix output label typo in README
+  main                          0f71ed4 [origin/main] Fix output label typo in README
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 0f71ed4 Fix output label typo in README
+  remotes/origin/bug-fix-typo   0f71ed4 Fix output label typo in README
+  remotes/origin/main           0f71ed4 Fix output label typo in README

@@ -1,0 +1,5 @@
+Command:
+curl -sS https://api.github.com/repos/mfahim03/simple-calculator
+
+Terminal output:
+[Not captured: this environment cannot access api.github.com. Run the command above in a terminal with internet access and paste its complete output here. For a valid fork, the JSON response should include "fork": true and a "parent.full_name" of "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub".]

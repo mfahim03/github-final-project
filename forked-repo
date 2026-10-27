@@ -1,5 +1,6 @@
-Command:
-curl -sS https://api.github.com/repos/mfahim03/simple-calculator
+Run this in Command Prompt, then copy the complete JSON response below the command:
+curl -sS https://api.github.com/repos/mfahim03/mcino-Introduction-to-Git-and-GitHub
 
-Terminal output:
-[Not captured: this environment cannot access api.github.com. Run the command above in a terminal with internet access and paste its complete output here. For a valid fork, the JSON response should include "fork": true and a "parent.full_name" of "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub".]
+The response must show "fork": true and parent.full_name equal to "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub".
+
+Paste the command and its actual output into this file, then commit and push forked-repo to mfahim03/simple-calculator.
